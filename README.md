@@ -1,7 +1,7 @@
-# Comprehensive Data Analysis and Machine Learning Project
+# Comprehensive Data Analysis and Machine Learning on Heart Disease Dataset
 
 ## Table of Contents
-- [Comprehensive Data Analysis and Machine Learning Project](#comprehensive-data-analysis-and-machine-learning-project)
+- [Comprehensive Data Analysis and Machine Learning on Heart Disease Datase](#comprehensive-data-analysis-and-machine-learning-on-heart-disease-datase)
   - [Table of Contents](#table-of-contents)
   - [Overview](#overview)
   - [Data Visualization](#data-visualization)
